@@ -1,0 +1,90 @@
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.Cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog210 EnterpriseWebII-Winter15\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\Prog210-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-2-IntroToDataAnalysis\part1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-2-IntroToDataAnalysis\part1-CommandandReaderObjects\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part1\02-1stDBAccess-WinForm\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.AssemblyReference.cache
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.AssemblyReference.cache
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.cache
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 1\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.AssemblyReference.cache
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Form1.resources
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210_1stDBAccess_WinForm.Properties.Resources.resources
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.GenerateResource.cache
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\obj\Debug\Prog210-1stDBAccess-WinForm.pdb
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe.config
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.exe
+C:\Users\besta\Desktop\02-1stDBAccess-WinForm\Prog210-1stDBAccess-WinForm\bin\Debug\Prog210-1stDBAccess-WinForm.pdb
